@@ -11,3 +11,5 @@ fields:
     schema:
       format: markdown
   label: My label
+pages:
+- content/New page.md
