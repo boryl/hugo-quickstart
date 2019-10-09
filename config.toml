@@ -1,5 +1,5 @@
 title = "Notre-Dame de Paris"
-baseURL = "https://example.com"
+baseURL = "http://hugo-quickstart.s3-website.eu-north-1.amazonaws.com/"
 languageCode = "en-us"
 theme = "gohugo-theme-ananke"
 
