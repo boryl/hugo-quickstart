@@ -1,0 +1,17 @@
+---
+label: Item template
+hide_body: true
+fields:
+- type: field_group_list
+  name: Items
+  label: Items
+  fields:
+  - type: text
+    name: id
+    label: id
+  - type: text
+    name: name
+    label: name
+  - type: text
+    name: description
+    label: description
