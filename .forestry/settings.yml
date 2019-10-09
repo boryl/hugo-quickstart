@@ -4,6 +4,8 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- type: heading
+  label: Content
 - type: directory
   path: content/post
   label: Posts
@@ -15,6 +17,12 @@ sections:
   create: all
   match: "**/*"
   exclude: post/**/*
+- type: heading
+  label: Data
+- type: document
+  path: data/items.json
+  label: Items
+  match: "**/*"
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''
