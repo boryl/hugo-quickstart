@@ -1,18 +1,26 @@
 [
-    {
-      "id": "1",
-      "name": "Ett namn 1",
-      "description": "Beskrivande text 1"
-    },
-    {
-      "id": "2",
-      "name": "Ett namn 2",
-      "description": "Beskrivande text 2"
-    },
-    {
-      "id": "3",
-      "name": "Ett namn 3",
-      "description": "Beskrivande text 3"
-    }
-    
-  ]
+  {
+    "id": "4",
+    "name": "Test",
+    "description": "Upplagd från Forestry",
+    "image": "/uploads/OCAL.png"
+  },
+  {
+    "id": "1",
+    "name": "Ett namn 1",
+    "description": "Beskrivande text 1",
+    "image": ""
+  },
+  {
+    "id": "2",
+    "name": "Ett namn 2",
+    "description": "Beskrivande text 2",
+    "image": ""
+  },
+  {
+    "id": "3",
+    "name": "Ett namn 3",
+    "description": "Beskrivande text 3",
+    "image": ""
+  }
+]
