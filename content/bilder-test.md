@@ -1,5 +1,5 @@
 ---
-title: Bilder test
+title: Bilder
 featured_image: ''
 omit_header_text: false
 description: ''
