@@ -5,7 +5,8 @@ other = "Mer"
 other = "Alla {{.Title }}"
 
 [recentTitle]
-other = {{ print "Senaste " .Title }}
+{{ $rectit = print "Senaste " .Title }}
+other = {{ $rectit }}
 
 [readMore]
 other = "läs mer"
