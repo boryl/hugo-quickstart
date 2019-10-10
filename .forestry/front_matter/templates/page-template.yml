@@ -20,6 +20,7 @@ fields:
     required: false
   label: Layout
 pages:
+- content/bilder-test.md
 - content/_index.md
 - content/about/_index.md
 - content/contact.md
