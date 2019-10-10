@@ -18,5 +18,20 @@ fields:
   type: tag_list
   default: []
   label: Tags
+- name: background_position
+  type: select
+  default: center
+  config:
+    required: false
+    options:
+    - top
+    - center
+    - bottom
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Background position
 pages:
 - content/post/feedbacklådan.md
