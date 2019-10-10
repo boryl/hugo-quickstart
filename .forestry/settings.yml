@@ -22,10 +22,10 @@ sections:
   templates:
   - page-template
 - type: heading
-  label: Data
+  label: Image gallery
 - type: document
   path: data/image-gallery.json
-  label: Image gallery
+  label: Images
 - type: heading
   label: Settings
 - type: document
