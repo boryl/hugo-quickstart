@@ -14,11 +14,11 @@ fields:
 - type: text
   name: description
   label: Description
-- name: layout
+- name: type
   type: text
   config:
     required: false
-  label: Layout
+  label: Type
 pages:
 - content/bilder-test.md
 - content/_index.md
