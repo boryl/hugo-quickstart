@@ -3,7 +3,7 @@ date: 2017-04-11T15:13:32.000+00:00
 description: Monsieur the Cardinal
 featured_image: ''
 tags: []
-title: 'Chapter III: Monsieur the Cardinal'
+title: Blandade laserprojekt
 
 ---
 Poor Gringoire! the din of all the great double petards of the Saint-Jean,
