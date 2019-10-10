@@ -14,6 +14,11 @@ fields:
 - type: text
   name: description
   label: Description
+- name: layout
+  type: text
+  config:
+    required: false
+  label: Layout
 pages:
 - content/_index.md
 - content/about/_index.md
