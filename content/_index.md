@@ -5,8 +5,8 @@ description: Kreativ teknik – Prototyper, konceptutveckling, programmering, el
 omit_header_text: false
 menu:
   main:
+    name: Hem
     weight: 1
-
 
 ---
 Welcome to my blog with some of my work in progress. I've been working on this book idea. You can read some of the chapters below.
