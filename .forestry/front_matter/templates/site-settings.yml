@@ -1,0 +1,92 @@
+---
+label: Site settings
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: Site title
+- type: text
+  name: baseURL
+  label: URL
+- type: text
+  name: languageCode
+  label: Language
+- type: text
+  name: theme
+  label: Theme
+- type: text
+  name: DefaultContentLanguage
+  label: Default content language
+- type: text
+  name: SectionPagesMenu
+  label: Section pages menu
+- type: number
+  name: Paginate
+  label: Paginate
+- type: text
+  name: googleAnalytics
+  label: Google Analytics
+- type: boolean
+  name: enableRobotsTXT
+  label: Enable robots.txt
+- type: field_group
+  name: sitemap
+  label: Sitemap
+  fields:
+  - type: text
+    name: changefreq
+    label: Changefreq
+  - type: number
+    name: priority
+    label: Priority
+  - type: text
+    name: filename
+    label: Filename
+- type: field_group
+  name: params
+  label: More settings
+  fields:
+  - type: text
+    name: favicon
+    label: Favicon
+  - type: text
+    name: description
+    label: Description
+  - type: text
+    name: facebook
+    label: Facebook
+  - type: text
+    name: twitter
+    label: Twitter
+  - type: text
+    name: instagram
+    label: Instagram
+  - type: text
+    name: youtube
+    label: Youtube
+  - type: text
+    name: github
+    label: Github
+  - type: text
+    name: gitlab
+    label: Gitlab
+  - type: text
+    name: linkedin
+    label: Linkedin
+  - type: text
+    name: mastodon
+    label: Mastodon
+  - type: text
+    name: background_color_class
+    label: Background color class
+  - type: file
+    name: featured_image
+    label: Featured image
+  - type: number
+    name: recent_posts_number
+    label: Recent posts number
+  - type: list
+    name: custom_css
+    label: Custom CSS
+pages:
+- config.toml

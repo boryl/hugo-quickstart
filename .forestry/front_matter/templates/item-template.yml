@@ -7,11 +7,11 @@ fields:
   label: Items
   fields:
   - type: text
-    name: id
-    label: id
-  - type: text
     name: name
     label: name
+  - type: text
+    name: id
+    label: id
   - type: text
     name: description
     label: description
