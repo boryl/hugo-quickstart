@@ -14,10 +14,6 @@ fields:
 - type: file
   name: featured_image
   label: Header image
-- name: tags
-  type: tag_list
-  default: []
-  label: Tags
 - name: background_position
   type: select
   default: center
@@ -33,5 +29,14 @@ fields:
       file: 
       path: 
   label: Background position
+- name: tags
+  type: tag_list
+  default: []
+  label: Tags
+- name: omit_header_text
+  type: boolean
+  label: omit_header_text
+  hidden: true
+  default: true
 pages:
 - content/post/feedbacklådan.md
