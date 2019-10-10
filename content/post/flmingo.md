@@ -2,6 +2,8 @@
 date: 2017-04-14T15:25:05.000+00:00
 description: Esmeralda
 featured_image: "/uploads/flamingo_large.jpg"
+omit_header_text: true
+background_position: top
 tags: []
 title: En uppkopplad flamingo
 

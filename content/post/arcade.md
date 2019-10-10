@@ -2,6 +2,8 @@
 date: 2017-04-12T15:14:48.000+00:00
 description: Master Jacques Coppenole
 featured_image: "/uploads/arcade_large.jpg"
+omit_header_text: true
+background_position: center
 tags:
 - scene
 title: Arkadspel med godistema

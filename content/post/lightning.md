@@ -2,6 +2,8 @@
 date: 2017-04-10T15:00:59.000+00:00
 description: Pierre Gringoire
 featured_image: "/uploads/lightning_large.jpg"
+omit_header_text: true
+background_position: center
 tags: []
 title: Ett ljushuvud
 

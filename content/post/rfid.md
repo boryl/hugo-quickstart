@@ -2,6 +2,7 @@
 date: 2017-04-13T15:15:58.000+00:00
 description: Quasimodo
 featured_image: ''
+omit_header_text: true
 tags: []
 title: Labb med RFID
 

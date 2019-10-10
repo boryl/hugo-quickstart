@@ -1,8 +1,8 @@
 ---
 title: Laser Manufaktur
-featured_image: "/uploads/header.jpg"
+featured_image: "/uploads/workbench_large.jpg"
 description: Kreativ teknik – Prototyper, konceptutveckling, programmering, elektronik
-omit_header_text: false
+omit_header_text: true
 type: ''
 
 ---

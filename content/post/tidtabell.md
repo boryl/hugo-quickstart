@@ -2,6 +2,8 @@
 date: 2017-04-09T14:58:08.000+00:00
 description: The Grand Hall
 featured_image: "/uploads/timetable_large.jpg"
+omit_header_text: true
+background_position: top
 tags:
 - scene
 title: Tidtabell för kollektivtrafiken
