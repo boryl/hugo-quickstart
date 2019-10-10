@@ -1,7 +1,7 @@
 ---
 title: Artiklar
 date: '2019-10-10T12:00:00.000+00:00'
-featured_image: ''
+featured_image: "/uploads/workbench_large.jpg"
 tags: []
 omit_header_text: true
 description: ''
