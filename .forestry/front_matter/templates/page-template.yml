@@ -19,7 +19,11 @@ fields:
   config:
     required: false
   label: Type
+- name: layout
+  type: text
+  config:
+    required: false
+  label: Layout
 pages:
-- content/bilder-test.md
 - content/_index.md
 - content/contact.md
