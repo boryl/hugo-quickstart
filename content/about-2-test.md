@@ -4,6 +4,9 @@ featured_image: ''
 omit_header_text: false
 description: Test
 layout: about
+menu:
+  main:
+    weight: 2
 
 ---
 Tesxt
