@@ -9,23 +9,23 @@ sections:
 - type: directory
   path: content/post
   label: Posts
-  templates: 
-  - post-template
   create: all
   match: "**/*"
+  templates:
+  - post-template
 - type: directory
   path: content
   label: Pages
-  templates: 
-  - page-template
   create: all
   match: "**/*"
   exclude: post/**/*
+  templates:
+  - page-template
 - type: heading
   label: Data
 - type: document
-  path: data/items.json
-  label: Items
+  path: data/image-gallery.json
+  label: Image gallery
 - type: heading
   label: Settings
 - type: document
