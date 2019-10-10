@@ -4,16 +4,13 @@ hide_body: false
 fields:
 - type: text
   name: title
-  label: title
+  label: Title
 - type: file
   name: featured_image
-  label: featured_image
+  label: Header image
 - type: boolean
   name: omit_header_text
-  label: omit_header_text
+  label: Hide header text
 - type: text
   name: description
-  label: description
-- type: text
-  name: type
-  label: type
+  label: Description
