@@ -2,10 +2,10 @@
 other = "Mer"
 
 [allTitle]
-other = "Alla {{lower .Title }}"
+other = "Alla {{ lower .Title }}"
 
 [recentTitle]
-other = "Senaste {{lower .Title }}na"
+other = "Senaste {{ lower .Title }}na"
 
 [readMore]
 other = "läs mer"
