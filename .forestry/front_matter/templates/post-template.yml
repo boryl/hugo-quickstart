@@ -19,8 +19,8 @@ fields:
   default: []
   label: Tags
 pages:
-- content/post/chapter-6.md
 - content/post/feedbacklådan.md
+- content/post/chapter-6.md
 - content/post/chapter-2.md
 - content/post/chapter-1.md
 - content/post/chapter-4.md
