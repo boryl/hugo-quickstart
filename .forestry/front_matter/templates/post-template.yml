@@ -14,8 +14,9 @@ fields:
 - type: file
   name: featured_image
   label: Header image
-- type: list
-  name: tags
+- name: tags
+  type: tag_list
+  default: []
   label: Tags
 pages:
 - content/post/chapter-1.md
