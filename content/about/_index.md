@@ -5,6 +5,7 @@ description: 'A few years ago, while visiting or, rather, rummaging about Notre-
   word, engraved by hand upon the wall: —ANANKE.'
 featured_image: ''
 layout: about
+omit_header_text: false
 draft: true
 
 ---

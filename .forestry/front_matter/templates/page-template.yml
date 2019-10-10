@@ -1,0 +1,20 @@
+---
+label: Page template
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: Title
+- type: file
+  name: featured_image
+  label: Header image
+- type: boolean
+  name: omit_header_text
+  label: Hide header text
+- type: text
+  name: description
+  label: Description
+pages:
+- content/about/_index.md
+- content/_index.md
+- content/contact.md
