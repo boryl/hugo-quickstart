@@ -17,3 +17,5 @@ fields:
 - type: list
   name: tags
   label: Tags
+pages:
+- content/post/chapter-1.md
