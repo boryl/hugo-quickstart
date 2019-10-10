@@ -1,7 +1,7 @@
 DefaultContentLanguage = "sv"
 MetaDataFormat = "yaml"
 Paginate = 3
-SectionPagesMenu = "main"
+SectionPagesMenu = ""
 baseURL = "https://distracted-torvalds-75fca5.netlify.com"
 enableRobotsTXT = false
 googleAnalytics = ""
