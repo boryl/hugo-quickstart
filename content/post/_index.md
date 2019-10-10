@@ -1,5 +1,5 @@
 ---
-title: artiklar
+title: Artiklar
 date: 2019-10-10T14:00:00+02:00
 
 ---
