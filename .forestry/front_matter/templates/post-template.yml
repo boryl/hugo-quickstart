@@ -2,18 +2,18 @@
 label: Post template
 hide_body: false
 fields:
-- type: datetime
-  name: date
-  label: date
-- type: text
-  name: description
-  label: description
-- type: file
-  name: featured_image
-  label: featured_image
-- type: list
-  name: tags
-  label: tags
 - type: text
   name: title
-  label: title
+  label: Title
+- type: datetime
+  name: date
+  label: Date
+- type: text
+  name: description
+  label: Description
+- type: file
+  name: featured_image
+  label: Header image
+- type: list
+  name: tags
+  label: Tags
