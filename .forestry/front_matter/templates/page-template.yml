@@ -20,7 +20,7 @@ fields:
     required: false
   label: Type
 pages:
+- content/_index.md
 - content/post/_index.md
 - content/contact.md
-- content/_index.md
 - content/bilder.md
