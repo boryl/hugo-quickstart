@@ -39,4 +39,5 @@ fields:
   hidden: true
   default: true
 pages:
+- content/post/test.md
 - content/post/feedbacklådan.md
