@@ -4,7 +4,7 @@ description: Master Jacques Coppenole
 featured_image: ''
 tags:
 - scene
-title: 'Chapter IV: Master Jacques Coppenole'
+title: Arkadspel med godistema
 
 ---
 While the pensioner of Ghent and his eminence were exchanging very low
