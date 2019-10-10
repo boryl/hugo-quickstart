@@ -9,7 +9,8 @@ sections:
 - type: directory
   path: content/post
   label: Posts
-  template: 'post-template'
+  template: 
+  post-template
   create: all
   match: "**/*"
 - type: directory
