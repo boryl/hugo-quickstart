@@ -25,5 +25,6 @@ fields:
     required: false
   label: Layout
 pages:
+- content/bilder.md
 - content/_index.md
 - content/contact.md
