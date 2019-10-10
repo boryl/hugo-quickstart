@@ -20,6 +20,6 @@ fields:
     required: false
   label: Type
 pages:
-- content/bilder.md
-- content/_index.md
 - content/contact.md
+- content/_index.md
+- content/bilder.md

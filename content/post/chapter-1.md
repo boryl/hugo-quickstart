@@ -1,7 +1,7 @@
 ---
 date: 2017-04-09T14:58:08.000+00:00
 description: The Grand Hall
-featured_image: "/images/Pope-Edouard-de-Beaumont-1844.jpg"
+featured_image: "/uploads/timetable_large.jpg"
 tags:
 - scene
 title: Tidtabell för kollektivtrafiken
