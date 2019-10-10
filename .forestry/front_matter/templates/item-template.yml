@@ -3,20 +3,14 @@ label: Item template
 hide_body: true
 fields:
 - type: field_group_list
-  name: Items
-  label: Items
+  name: Images
+  label: Images
   fields:
-  - type: text
-    name: name
-    label: name
-  - type: text
-    name: id
-    label: id
-  - type: text
-    name: description
-    label: description
   - name: image
     type: file
     config:
       maxSize: 250
     label: Image
+  - type: text
+    name: text
+    label: Text
