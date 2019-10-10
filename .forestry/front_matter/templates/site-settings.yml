@@ -88,3 +88,5 @@ fields:
   - type: list
     name: custom_css
     label: Custom CSS
+pages:
+- config.toml
