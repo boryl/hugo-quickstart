@@ -8,9 +8,6 @@ fields:
 - type: file
   name: featured_image
   label: Header image
-- type: boolean
-  name: omit_header_text
-  label: Hide header text
 - type: text
   name: description
   label: Description
@@ -19,8 +16,13 @@ fields:
   config:
     required: false
   label: Type
+- type: boolean
+  name: omit_header_text
+  label: Hide header text
+  default: true
+  hidden: true
 pages:
-- content/post/_index.md
 - content/_index.md
+- content/post/_index.md
 - content/contact.md
 - content/bilder.md
