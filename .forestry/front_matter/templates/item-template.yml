@@ -14,5 +14,3 @@ fields:
   - type: text
     name: text
     label: Text
-pages:
-- data/image-gallery.json

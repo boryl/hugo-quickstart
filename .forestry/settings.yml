@@ -24,7 +24,7 @@ sections:
 - type: heading
   label: Image gallery
 - type: document
-  path: data/image-gallery.json
+  path: data/image_gallery.json
   label: Images
 - type: heading
   label: Settings
