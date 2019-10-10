@@ -15,6 +15,7 @@ fields:
   name: description
   label: Description
 pages:
-- content/about/_index.md
+- content/about-2-test.md
 - content/_index.md
+- content/about/_index.md
 - content/contact.md
