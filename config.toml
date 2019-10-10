@@ -12,6 +12,7 @@ title = "Laser Manufaktur"
 background_color_class = "bg-black"
 custom_css = ["css/custom.css"]
 description = "Kreativ teknik"
+recent_copy = "Senaste artiklarna"
 facebook = "https://www.facebook.com/lazermanufaktur/"
 favicon = "uploads/favicon-32x32.png"
 featured_image = "/images/gohugo-default-sample-hero-image.jpg"
