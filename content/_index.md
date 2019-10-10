@@ -1,7 +1,7 @@
 ---
-title: 'Ananke: a Hugo Theme'
+title: Laser Manufaktur
 featured_image: "/images/gohugo-default-sample-hero-image.jpg"
-description: The last theme you'll ever need. Maybe.
+description: Kreativ teknik – Prototyper, konceptutveckling, programmering, elektronik
 omit_header_text: false
 
 ---
