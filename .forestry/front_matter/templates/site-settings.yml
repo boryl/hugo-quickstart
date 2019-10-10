@@ -1,0 +1,93 @@
+---
+label: Site settings
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: baseURL
+  label: baseURL
+- type: text
+  name: languageCode
+  label: languageCode
+- type: text
+  name: theme
+  label: theme
+- type: text
+  name: MetaDataFormat
+  label: MetaDataFormat
+- type: text
+  name: DefaultContentLanguage
+  label: DefaultContentLanguage
+- type: text
+  name: SectionPagesMenu
+  label: SectionPagesMenu
+- type: number
+  name: Paginate
+  label: Paginate
+- type: text
+  name: googleAnalytics
+  label: googleAnalytics
+- type: boolean
+  name: enableRobotsTXT
+  label: enableRobotsTXT
+- type: field_group
+  name: sitemap
+  label: sitemap
+  fields:
+  - type: text
+    name: changefreq
+    label: changefreq
+  - type: number
+    name: priority
+    label: priority
+  - type: text
+    name: filename
+    label: filename
+- type: field_group
+  name: params
+  label: params
+  fields:
+  - type: text
+    name: favicon
+    label: favicon
+  - type: text
+    name: description
+    label: description
+  - type: text
+    name: facebook
+    label: facebook
+  - type: text
+    name: twitter
+    label: twitter
+  - type: text
+    name: instagram
+    label: instagram
+  - type: text
+    name: youtube
+    label: youtube
+  - type: text
+    name: github
+    label: github
+  - type: text
+    name: gitlab
+    label: gitlab
+  - type: text
+    name: linkedin
+    label: linkedin
+  - type: text
+    name: mastodon
+    label: mastodon
+  - type: text
+    name: background_color_class
+    label: background_color_class
+  - type: file
+    name: featured_image
+    label: featured_image
+  - type: number
+    name: recent_posts_number
+    label: recent_posts_number
+  - type: list
+    name: custom_css
+    label: custom_css
