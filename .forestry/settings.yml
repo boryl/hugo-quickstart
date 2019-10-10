@@ -16,6 +16,8 @@ sections:
 - type: directory
   path: content
   label: Pages
+  templates: 
+  - page-template
   create: all
   match: "**/*"
   exclude: post/**/*
