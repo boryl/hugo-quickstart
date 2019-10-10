@@ -1,27 +1,27 @@
-DefaultContentLanguage = "en"
+DefaultContentLanguage = "sv"
 MetaDataFormat = "yaml"
 Paginate = 3
 SectionPagesMenu = "main"
 baseURL = "https://distracted-torvalds-75fca5.netlify.com"
 enableRobotsTXT = true
 googleAnalytics = ""
-languageCode = "en-us"
+languageCode = "sv-SE"
 theme = "gohugo-theme-ananke"
-title = "Notre-Dame de Paris"
+title = "Laser Manufaktur"
 [params]
 background_color_class = "bg-black"
 custom_css = ["css/custom.css"]
-description = "The last theme you'll ever need. Maybe."
-facebook = ""
+description = "Kreativ teknik"
+facebook = "https://www.facebook.com/lazermanufaktur/"
 favicon = ""
 featured_image = "/images/gohugo-default-sample-hero-image.jpg"
 github = ""
 gitlab = ""
-instagram = ""
+instagram = "https://instagram.com/lazermanufaktur"
 linkedin = ""
 mastodon = ""
 recent_posts_number = 2
-twitter = "https://twitter.com/GoHugoIO"
+twitter = ""
 youtube = ""
 [sitemap]
 changefreq = "monthly"
