@@ -4,9 +4,6 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
-- type: document
-  path: config.toml
-  label: Test
 - type: heading
   label: Content
 - type: directory
@@ -25,6 +22,11 @@ sections:
 - type: document
   path: data/items.json
   label: Items
+- type: heading
+  label: Settings
+- type: document
+  path: config.toml
+  label: Test
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''
