@@ -2,7 +2,7 @@
 other = "Mer"
 
 [allTitle]
-other = "Alla {{.Title }}"
+other = "Alla {{lower .Title }}"
 
 [recentTitle]
 other = "Senaste {{lower .Title }}na"
