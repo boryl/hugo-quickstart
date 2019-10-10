@@ -6,7 +6,7 @@ description: Test
 layout: about/about
 menu:
   main:
-    weight: 2
+    weight: 4
 
 ---
 Tesxt
