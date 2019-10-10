@@ -5,7 +5,7 @@ other = "Mer"
 other = "Alla {{.Title }}"
 
 [recentTitle]
-other = "Senaste {{.Title }}"
+other = "Senaste {{lower .Title }}na"
 
 [readMore]
 other = "läs mer"
