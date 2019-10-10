@@ -4,6 +4,9 @@ featured_image: ''
 omit_header_text: false
 description: ''
 layout: images
+menu:
+  main:
+    weight: 4
 draft: true
 
 ---
