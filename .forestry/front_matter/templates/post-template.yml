@@ -39,5 +39,6 @@ fields:
   hidden: true
   default: true
 pages:
+- content/post/en-knapp-till-historiska-museet.md
 - content/post/test.md
 - content/post/feedbacklådan.md
