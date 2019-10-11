@@ -4,11 +4,11 @@
   <section class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy mid-gray">
       {{ .Content }}
   </section>
-    <aside class="flex-ns flex-wrap justify-around mt3">
-        {{ range .Site.Data.image_gallery }}
-        {{ partial "item.html" . }}
-        {{ end }}
-    </aside>
+  <aside>
+    {{ range .Site.Data.image_gallery }}
+    {{ partial "item.html" . }}
+    {{ end }}
+   </aside>
     
   </article>
   {{ end }}
