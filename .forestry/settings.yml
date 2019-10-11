@@ -4,9 +4,6 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
-- type: document
-  path: data/image_gallery.json
-  label: Image gallery
 - type: heading
   label: Content
 - type: heading
