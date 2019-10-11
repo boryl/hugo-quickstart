@@ -1,0 +1,14 @@
+---
+label: Image template
+hide_body: true
+fields:
+- type: field_group_list
+  name: Image gallery
+  label: Image gallery
+  fields:
+  - type: text
+    name: text
+    label: text
+  - type: file
+    name: image
+    label: image
