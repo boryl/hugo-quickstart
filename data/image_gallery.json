@@ -1,9 +1,5 @@
 [
   {
-    "text": "En logo på en dongle",
-    "image": "/uploads/dongle_1280.jpg"
-  },
-  {
     "text": "Avståndsmätare med Raspberry Pi",
     "image": "/uploads/eyes_1280.jpg"
   },
@@ -16,11 +12,15 @@
     "image": "/uploads/rfid_1280.jpg"
   },
   {
+    "text": "Audioswitch",
+    "image": "/uploads/switch_1280.jpg"
+  },
+  {
     "text": "Spraymall till dansföreställning",
     "image": "/uploads/samlingen_1280.jpg"
   },
   {
-    "text": "Audioswitch",
-    "image": "/uploads/switch_1280.jpg"
+    "text": "En logo på en dongle",
+    "image": "/uploads/dongle_1280.jpg"
   }
 ]
