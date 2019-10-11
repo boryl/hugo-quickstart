@@ -7,7 +7,6 @@ sections:
 - type: document
   path: data/image_gallery.json
   label: Image gallery
-  match: "**/*"
 - type: heading
   label: Content
 - type: heading

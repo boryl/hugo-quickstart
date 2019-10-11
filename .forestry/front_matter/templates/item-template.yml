@@ -16,3 +16,5 @@ fields:
     label: Text
     config:
       required: true
+pages:
+- data/image_gallery.json
