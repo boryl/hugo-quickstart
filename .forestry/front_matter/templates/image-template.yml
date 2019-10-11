@@ -8,7 +8,9 @@ fields:
   fields:
   - type: text
     name: text
-    label: text
-  - type: file
-    name: image
-    label: image
+    label: Text
+  - name: image
+    type: file
+    config:
+      maxSize: 250
+    label: Image
