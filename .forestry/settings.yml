@@ -6,8 +6,6 @@ webhook_url:
 sections:
 - type: heading
   label: Content
-- type: heading
-  label: Image gallery
 - type: directory
   path: content/post
   label: Posts
@@ -28,6 +26,8 @@ sections:
 - type: document
   path: config.toml
   label: Site settings
+- type: heading
+  label: Image gallery
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''
