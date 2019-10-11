@@ -4,8 +4,14 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
+- type: document
+  path: data/image_gallery.json
+  label: Image gallery
+  match: "**/*"
 - type: heading
   label: Content
+- type: heading
+  label: Image gallery
 - type: directory
   path: content/post
   label: Posts
@@ -21,8 +27,6 @@ sections:
   exclude: post/**/*
   templates:
   - page-template
-- type: heading
-  label: Image gallery
 - type: heading
   label: Settings
 - type: document
