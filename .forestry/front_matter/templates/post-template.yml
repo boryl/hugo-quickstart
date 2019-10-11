@@ -39,6 +39,7 @@ fields:
   hidden: true
   default: true
 pages:
+- content/post/årets-julklapp-bärbart-pacman.md
 - content/post/en-knapp-till-historiska-museet.md
 - content/post/test.md
 - content/post/feedbacklådan.md
