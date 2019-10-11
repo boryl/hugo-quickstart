@@ -4,9 +4,6 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
-- type: document
-  path: data/image_gallery.json
-  label: Images
 - type: heading
   label: Content
 - type: directory
@@ -24,13 +21,14 @@ sections:
   exclude: post/**/*
   templates:
   - page-template
+- type: document
+  path: data/image_gallery.json
+  label: Images
 - type: heading
   label: Settings
 - type: document
   path: config.toml
   label: Site settings
-- type: heading
-  label: Image gallery
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''
