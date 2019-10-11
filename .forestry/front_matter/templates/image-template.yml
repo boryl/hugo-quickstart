@@ -3,7 +3,7 @@ label: Image template
 hide_body: true
 fields:
 - type: field_group_list
-  name: Image
+  name: image_gallery
   label: Image gallery
   fields:
   - type: text
