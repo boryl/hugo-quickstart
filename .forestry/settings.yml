@@ -26,6 +26,8 @@ sections:
 - type: document
   path: data/image_gallery.json
   label: Images
+  templates:
+  - item-template
 - type: heading
   label: Settings
 - type: document
