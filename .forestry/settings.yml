@@ -4,10 +4,6 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
-- type: document
-  path: data/image_gallery.json
-  label: Images
-  match: "**/*"
 - type: heading
   label: Content
 - type: directory
@@ -27,11 +23,6 @@ sections:
   - page-template
 - type: heading
   label: Image gallery
-- type: document
-  path: data/image_gallery.json
-  label: Images
-  templates:
-  - item-template
 - type: heading
   label: Settings
 - type: document
