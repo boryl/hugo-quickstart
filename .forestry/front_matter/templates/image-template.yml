@@ -8,7 +8,7 @@ fields:
   fields:
   - type: text
     name: text
-    label: text
+    label: Text
   - type: text
     name: image
-    label: image
+    label: Image
