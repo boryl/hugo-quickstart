@@ -6,7 +6,7 @@ omit_header_text: true
 background_position: center
 tags:
 - scene
-title: Arkadspel med godistema
+title: Arkadspel
 
 ---
 While the pensioner of Ghent and his eminence were exchanging very low

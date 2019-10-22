@@ -23,6 +23,6 @@ fields:
   hidden: true
 pages:
 - content/bilder.md
+- content/contact.md
 - content/_index.md
 - content/post/_index.md
-- content/contact.md
